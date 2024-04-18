@@ -5,3 +5,5 @@ Basic calculator and simple trigonometric function signal graph generator.
 ![image](https://github.com/steqwe12/matlab-app/assets/124030239/0855271a-be7d-4aa9-b168-3d287af27c5c)
 
 
+![matlab1upload](https://github.com/steqwe12/matlabSimpleApp/assets/124030239/927e3570-436d-4861-b5ef-172aa5b883e7)
+![matlab2upload](https://github.com/steqwe12/matlabSimpleApp/assets/124030239/b8425a5c-2395-4724-994a-812a27f1b7aa)
